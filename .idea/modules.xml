@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/gitf_lab2_lesson2.iml" filepath="$PROJECT_DIR$/.idea/gitf_lab2_lesson2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/gitflow2.iml" filepath="$PROJECT_DIR$/.idea/gitflow2.iml" />
     </modules>
   </component>
 </project>
